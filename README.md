@@ -1,13 +1,16 @@
 # bookmark
 
 - 리스트
-<img width="576" alt="read" src="https://user-images.githubusercontent.com/28583563/103129198-3ff90a80-46db-11eb-9fa0-e2f60d68c0d0.PNG">
+<img width="478" alt="list" src="https://user-images.githubusercontent.com/28583563/103130259-5012e900-46df-11eb-9c23-a546dedee4d5.PNG">
 
-- 생성
-<img width="574" alt="create" src="https://user-images.githubusercontent.com/28583563/103129964-0f66a000-46de-11eb-8d9e-9942078b1e5d.PNG">
+- 상세
+<img width="477" alt="detail" src="https://user-images.githubusercontent.com/28583563/103130260-51441600-46df-11eb-9525-fd2b545016bf.PNG">
+
+- 추가
+<img width="478" alt="add" src="https://user-images.githubusercontent.com/28583563/103130262-51dcac80-46df-11eb-929f-882d92bac9b2.PNG">
 
 - 수정
-<img width="578" alt="update" src="https://user-images.githubusercontent.com/28583563/103129967-0fff3680-46de-11eb-94c8-c61ba3aeba09.PNG">
+<img width="476" alt="update" src="https://user-images.githubusercontent.com/28583563/103130264-52754300-46df-11eb-93ab-f48733d826b8.PNG">
 
 - 삭제
-<img width="580" alt="delete" src="https://user-images.githubusercontent.com/28583563/103129969-1097cd00-46de-11eb-8c98-7726029907cb.PNG">
+<img width="478" alt="delete" src="https://user-images.githubusercontent.com/28583563/103130266-52754300-46df-11eb-9509-b6fd2e750a3e.PNG">
